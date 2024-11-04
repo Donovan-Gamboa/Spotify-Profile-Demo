@@ -61,7 +61,3 @@ This app uses the following Spotify Web API endpoints:
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you need any other sections added!
